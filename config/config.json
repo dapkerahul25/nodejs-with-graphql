@@ -1,0 +1,8 @@
+{
+  "development": {
+    "dialect": "postgres",
+    "database":"graphql_db",
+    "username":"",
+    "password":""
+  }
+}
